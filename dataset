@@ -1,0 +1,6 @@
+sentences = [
+    ["patient", "has", "diabetes"],
+    ["doctor", "gives", "treatment"],
+    ["vaccine", "prevents", "disease"],
+    ["pain", "and", "fever", "are", "symptoms"]
+]

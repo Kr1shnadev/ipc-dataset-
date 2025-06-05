@@ -4,3 +4,7 @@ sentences = [
     ["vaccine", "prevents", "disease"],
     ["pain", "and", "fever", "are", "symptoms"]
 ]
+print(f"""The {similars[0]} walked briskly into the ward, reviewing notes before seeing the next patient. 
+A dedicated {similars[1]} stood nearby, ready with the vitals. 
+“Good morning,” said {similars[2]} Smith, adjusting his glasses. 
+In the hallway, other {similars[3]} discussed treatment plans, each focused on giving their best care.""")
